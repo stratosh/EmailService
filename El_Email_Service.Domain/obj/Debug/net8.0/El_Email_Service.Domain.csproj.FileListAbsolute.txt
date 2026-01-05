@@ -1,0 +1,11 @@
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\bin\Debug\net8.0\El_Email_Service.Domain.deps.json
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\bin\Debug\net8.0\El_Email_Service.Domain.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\bin\Debug\net8.0\El_Email_Service.Domain.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\El_Email_Service.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\El_Email_Service.Domain.AssemblyInfoInputs.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\El_Email_Service.Domain.AssemblyInfo.cs
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\El_Email_Service.Domain.csproj.CoreCompileInputs.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\El_Email_Service.Domain.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\refint\El_Email_Service.Domain.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\El_Email_Service.Domain.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Domain\obj\Debug\net8.0\ref\El_Email_Service.Domain.dll

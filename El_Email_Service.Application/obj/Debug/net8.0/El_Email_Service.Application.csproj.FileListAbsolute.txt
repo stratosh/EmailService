@@ -1,0 +1,17 @@
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\bin\Debug\net8.0\El_Email_Service.Application.deps.json
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\bin\Debug\net8.0\El_Email_Service.Application.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\bin\Debug\net8.0\El_Email_Service.Application.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\bin\Debug\net8.0\El_Email_Service.Domain.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\bin\Debug\net8.0\El_Email_Service.Infrastructure.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\bin\Debug\net8.0\El_Email_Service.Domain.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\bin\Debug\net8.0\El_Email_Service.Infrastructure.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email_Service.Application.csproj.AssemblyReference.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email_Service.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email_Service.Application.AssemblyInfoInputs.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email_Service.Application.AssemblyInfo.cs
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email_Service.Application.csproj.CoreCompileInputs.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email.9C5A5412.Up2Date
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email_Service.Application.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\refint\El_Email_Service.Application.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\El_Email_Service.Application.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Application\obj\Debug\net8.0\ref\El_Email_Service.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\bin\Debug\net8.0\El_Email_Service.Infrastructure.deps.json
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\bin\Debug\net8.0\El_Email_Service.Infrastructure.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\bin\Debug\net8.0\El_Email_Service.Infrastructure.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\bin\Debug\net8.0\El_Email_Service.Domain.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\bin\Debug\net8.0\El_Email_Service.Domain.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.AssemblyInfo.cs
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email.94428F59.Up2Date
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\refint\El_Email_Service.Infrastructure.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.pdb
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\ref\El_Email_Service.Infrastructure.dll
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\bin\Debug\net8.0\El_Email_Service.Infrastructure.runtimeconfig.json
+C:\Users\epar\RiderProjects\El_Email_Service\El_Email_Service.Infrastructure\obj\Debug\net8.0\El_Email_Service.Infrastructure.genruntimeconfig.cache

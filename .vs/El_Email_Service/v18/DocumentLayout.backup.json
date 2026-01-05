@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.application\\services\\iemailappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|solutionrelative:el_email_service.application\\services\\iemailappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.application\\services\\emailappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|solutionrelative:el_email_service.application\\services\\emailappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.application\\dtos\\emailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|solutionrelative:el_email_service.application\\dtos\\emailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.application\\dtos\\emailrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF591C55-18F3-4A38-BF09-8030E05B836B}|El_Email_Service.Application\\El_Email_Service.Application.csproj|solutionrelative:el_email_service.application\\dtos\\emailrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|solutionrelative:el_email_service.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|solutionrelative:el_email_service.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|solutionrelative:el_email_service.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|solutionrelative:el_email_service.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{253BC079-FA7C-4DEA-A7B6-0ED302619F75}|El_Email_Service.Api\\El_Email_Service.Api.csproj|solutionrelative:el_email_service.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.domain\\entities\\emaillog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|solutionrelative:el_email_service.domain\\entities\\emaillog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.domain\\entities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|solutionrelative:el_email_service.domain\\entities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.domain\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|solutionrelative:el_email_service.domain\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.domain\\interfaces\\iemaillogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AB93E3-8172-49B5-8CD1-924FB95B22E3}|El_Email_Service.Domain\\El_Email_Service.Domain.csproj|solutionrelative:el_email_service.domain\\interfaces\\iemaillogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|solutionrelative:el_email_service.infrastructure\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.infrastructure\\persistence\\emaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|solutionrelative:el_email_service.infrastructure\\persistence\\emaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.infrastructure\\repositories\\emaillogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|solutionrelative:el_email_service.infrastructure\\repositories\\emaillogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|c:\\users\\velzevul\\desktop\\projects\\el_email_service\\el_email_service.infrastructure\\services\\emailbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7A2F4-A176-4681-9492-6468B5FED6AA}|El_Email_Service.Infrastructure\\El_Email_Service.Infrastructure.csproj|solutionrelative:el_email_service.infrastructure\\services\\emailbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmailAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\Services\\IEmailAppService.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Application\\Services\\IEmailAppService.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\Services\\IEmailAppService.cs",
+              "RelativeToolTip": "El_Email_Service.Application\\Services\\IEmailAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:04:19.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailAppService.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\Services\\EmailAppService.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Application\\Services\\EmailAppService.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\Services\\EmailAppService.cs",
+              "RelativeToolTip": "El_Email_Service.Application\\Services\\EmailAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:04:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\DTOs\\EmailResponseDto.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Application\\DTOs\\EmailResponseDto.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\DTOs\\EmailResponseDto.cs",
+              "RelativeToolTip": "El_Email_Service.Application\\DTOs\\EmailResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:04:16.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\DTOs\\EmailRequestDto.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Application\\DTOs\\EmailRequestDto.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Application\\DTOs\\EmailRequestDto.cs",
+              "RelativeToolTip": "El_Email_Service.Application\\DTOs\\EmailRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:04:15.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\Program.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\Program.cs",
+              "RelativeToolTip": "El_Email_Service.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:04:07.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "El_Email_Service.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\Dockerfile",
+              "RelativeToolTip": "El_Email_Service.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T08:03:57.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Api\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "El_Email_Service.Api\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:03:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "El_Email_Service.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\appsettings.Development.json",
+              "RelativeToolTip": "El_Email_Service.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:03:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "El_Email_Service.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Api\\appsettings.json*",
+              "RelativeToolTip": "El_Email_Service.Api\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:03:12.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailLog.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Entities\\EmailLog.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Domain\\Entities\\EmailLog.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Entities\\EmailLog.cs",
+              "RelativeToolTip": "El_Email_Service.Domain\\Entities\\EmailLog.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:03:07.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Entities\\Email.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Domain\\Entities\\Email.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Entities\\Email.cs",
+              "RelativeToolTip": "El_Email_Service.Domain\\Entities\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:03:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Domain\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "El_Email_Service.Domain\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:03:04.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmailLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Interfaces\\IEmailLogRepository.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Domain\\Interfaces\\IEmailLogRepository.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Domain\\Interfaces\\IEmailLogRepository.cs",
+              "RelativeToolTip": "El_Email_Service.Domain\\Interfaces\\IEmailLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:03:03.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Infrastructure\\Services\\SmtpEmailService.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Services\\SmtpEmailService.cs",
+              "RelativeToolTip": "El_Email_Service.Infrastructure\\Services\\SmtpEmailService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:02:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Persistence\\EmailDbContext.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Infrastructure\\Persistence\\EmailDbContext.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Persistence\\EmailDbContext.cs",
+              "RelativeToolTip": "El_Email_Service.Infrastructure\\Persistence\\EmailDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:02:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "RelativeToolTip": "El_Email_Service.Infrastructure\\Repositories\\EmailLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:02:40.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Services\\EmailBackgroundService.cs",
+              "RelativeDocumentMoniker": "El_Email_Service.Infrastructure\\Services\\EmailBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Velzevul\\Desktop\\PROJECTS\\El_Email_Service\\El_Email_Service.Infrastructure\\Services\\EmailBackgroundService.cs*",
+              "RelativeToolTip": "El_Email_Service.Infrastructure\\Services\\EmailBackgroundService.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:01:48.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
